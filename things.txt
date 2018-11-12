@@ -1,4 +1,4 @@
-I like to eat: <XXXX Your favorite food here>
+I like to eat: <food>
 I like to hear: <XXXX Your favorite music here>
 My hobbies are <XXXX>.
 
